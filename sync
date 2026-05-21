@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+cp ~/.config/tmux/tmux.conf .
+cp ~/bin/ts .
